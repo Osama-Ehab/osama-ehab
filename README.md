@@ -13,5 +13,7 @@ I'm a software engineering enthusiast with a strong foundation in **OOP, 3-Tier 
 * A Custom C# Code Generator & Dynamic UI Scaffolder using `INFORMATION_SCHEMA`.
 * Enterprise-level Desktop Applications (DVLD).
 
-📫 **How to reach me:** * **Email:** [osama.e.selim@gmail.com](mailto:osama.e.selim@gmail.com) 
+📫 **How to reach me:** 
+
+* **Email:** [osama.e.selim@gmail.com](mailto:osama.e.selim@gmail.com) 
 * **LinkedIn:** [osama-ehab](https://linkedin.com/in/osama-ehab-bb0599388)
