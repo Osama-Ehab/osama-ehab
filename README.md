@@ -1,6 +1,6 @@
 ### Hi there, I'm Osama Ehab 👋
 
-**Aspiring .NET Developer & Data Science Student**
+**.NET Developer & Data Science Student**
 
 I'm a software engineering enthusiast with a strong foundation in **OOP, 3-Tier Architecture, and SQL Server**. Currently, I'm focused on building scalable backend systems and developer tools to enforce the DRY principle.
 
