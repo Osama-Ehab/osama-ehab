@@ -1,19 +1,18 @@
 ### Hi there, I'm Osama Ehab 👋
 
-**.NET Developer & Data Science Student**
+**Fullstack .NET Developer | Building Enterprise Tools & ERP Systems**
 
-I'm a software engineering enthusiast with a strong foundation in **OOP, 3-Tier Architecture, and SQL Server**. Currently, I'm focused on building scalable backend systems and developer tools to enforce the DRY principle.
+I am a software engineer focused on building highly scalable backend systems, enterprise ERPs, and advanced developer tools. With a deep commitment to **SOLID principles, Clean Architecture, and database optimization**, I specialize in eliminating boilerplate and enforcing the DRY principle through metadata-driven metaprogramming.
 
-🛠 **Tech Stack & Skills:**
-* **Languages:** C#, SQL
-* **Frameworks/Tech:** .NET, WinForms, ADO.NET
-* **Architecture:** 3-Tier Architecture, Database Normalization
+🛠 **Core Tech Stack & Engineering Skills:**
+*   **Backend & Frameworks:** C#, .NET Core, Dapper (Micro-ORM), ADO.NET
+*   **Database Architecture:** SQL Server (Advanced schema design, indexing, T-SQL, metadata extraction)
+*   **Architecture & Tooling:** 3-Tier/Clean Architecture, T4 Templates, Reflection, GDI+ for Custom UI
 
-🌱 **Currently Learning & Building:**
-* A Custom C# Code Generator & Dynamic UI Scaffolder using `INFORMATION_SCHEMA`.
-* Enterprise-level Desktop Applications (DVLD).
+🚀 **Currently Architecting & Building:**
+*   **System Factory Engine:** A custom C# Code Generator & Dynamic UI Scaffolder that reads `INFORMATION_SCHEMA` to auto-generate enterprise-grade DAL/BLL layers and hardware-accelerated WinForms UI.
+*   **Commercial School ERP System:** Developing a comprehensive, production-ready ERP system powered by my custom engine (Target Launch: September 2026).
 
-📫 **How to reach me:** 
-
-* **Email:** [osama.e.selim@gmail.com](mailto:osama.e.selim@gmail.com) 
-* **LinkedIn:** [osama-ehab](https://linkedin.com/in/osama-ehab-bb0599388)
+📫 **Let's Connect:** 
+*   **Email:** [osama.e.selim@gmail.com](mailto:osama.e.selim@gmail.com) 
+*   **LinkedIn:** [osama-ehab](https://linkedin.com/in/osama-ehab-bb0599388)
